@@ -60,7 +60,7 @@
               <a href="#" class="active"><i class="fa fa-home fa-fw"></i>Dashboard</a>
             </li>
             <li>
-              <a href="#"><i class="fa fa-bar-chart fa-fw"></i>Placement Drives</a>
+              <a href="../Drives/index.php"><i class="fa fa-bar-chart fa-fw"></i>Placement Drives</a>
             </li>
             <li>
               <a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a>
